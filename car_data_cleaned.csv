@@ -1,0 +1,391 @@
+Year,Model,Mileage,Location,Price,Site Price Type,Color Scheme,History,335i_yn,xdrive_yn,is_model_yn,body_style,car_color,interior_color,accident,num_owners,State
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
+2011,335is Convertible,"62,515 "," Somerset, NJ","$25,999",High Price,"Silver exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Silver, Black ,No, 3 , NJ
+2011,335i xDrive Coupe AWD,"37,739 "," Easton, PA","$25,998",Excellent Price,"White exterior, Brown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,White, Brown ,No, 2 , PA
+2011,335i Sedan,"67,840 "," Stroudsburg, PA","$18,990",Great Price,"Blue exterior, Brown interior","No accidents, 5 Owners, Fleet use",yes,no,no,E90,Blue, Brown ,No, 5 , PA
+2010,335i xDrive Sedan AWD,"128,507 "," Hasbrouck Heights, NJ","$9,995",Excellent Price,"Black exterior, Beige interior","No accidents, 3 Owners, Personal use",yes,yes,no,E90,Black, Beige ,No, 3 , NJ
+2011,335i Convertible,"55,578 "," Easton, PA","$23,998",High Price,"Black exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,no,no,E92,Black, Unknown ,No, 2 , PA
+2011,335i Convertible,"71,447 "," Stroudsburg, PA","$21,990",High Price,"Black exterior, Brown interior","No accidents, 6 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 6 , PA
+2010,335i Convertible,"74,799 "," Stroudsburg, PA","$18,990",High Price,"Black exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Black ,No, 3 , PA
+2011,335is Convertible,"40,262 "," Stroudsburg, PA","$28,990",High Price,"Blue exterior, Black interior","No accidents, 3 Owners, Personal use",yes,no,yes,E92,Blue, Black ,No, 3 , PA
+2011,335i xDrive Coupe AWD,"34,908 "," Jersey City, NJ","$19,998",Excellent Price,"Blue exterior, Unknown interior","No accidents, 2 Owners, Personal use",yes,yes,no,E92,Blue, Unknown ,No, 2 , NJ
+2008,335i Convertible,"137,855 "," Huntingdon Valley, PA","$11,295",High Price,"Black exterior, Beige interior","No accidents, 5 Owners, Personal use",yes,no,no,E92,Black, Beige ,No, 5 , PA
+2009,335i Convertible,"60,798 "," Stroudsburg, PA","$20,990",High Price,"Black exterior, Brown interior","No accidents, 3 Owners, Personal use",yes,no,no,E92,Black, Brown ,No, 3 , PA
+2011,335i Convertible,"89,479 "," Elizabeth, NJ","$17,985",High Price,"Blue exterior, Beige interior","1 accident, 2 Owners, Personal use",yes,no,no,E92,Blue, Beige ,Yes, 2 , NJ
+2011,335i Sedan,"106,062 "," Garfield, NJ","$13,499",High Price,"Unknown exterior, Unknown interior","No accidents, 5 Owners, Personal use",yes,no,no,E90,Unknown, Unknown ,No, 5 , NJ
