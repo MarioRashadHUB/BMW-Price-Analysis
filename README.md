@@ -12,7 +12,7 @@ This scraper has been created to specifically scrape all BMW listings
 ![alt text](https://github.com/MarioRashadHUB/truecar_bmw_scraper/blob/master/images/dfpic.png)
 
 
-## Interesting findings (2006 - 2010 N54 powered cars)
+## Interesting Findings (2006 - 2010 N54 powered cars)
 
 ![alt text](https://github.com/MarioRashadHUB/truecar_bmw_scraper/blob/master/images/avgprice.png)
 ![alt text](https://github.com/MarioRashadHUB/truecar_bmw_scraper/blob/master/images/lowmiles.png)
@@ -26,6 +26,6 @@ This scraper has been created to specifically scrape all BMW listings
 
 ## Moving Forward
 
-Although the scraper portion of the project is done, I still have future plans for this. I'm currently working towards implementing a database to this project.
+Although the scraper portion is done, I still have future plans for this project. I'm currently working towards implementing a database to this project.
 
 The goal is everytime data is scraped, only new data will be added to the database.
