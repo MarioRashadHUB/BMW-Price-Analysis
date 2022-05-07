@@ -7,7 +7,7 @@
 
 ## Data
 
-This scraper has been created to specifically scrape all BMW listings
+This scraper has been created to specifically scrape all BMW listings from truecar.com
 
 ![alt text](https://github.com/MarioRashadHUB/truecar_bmw_scraper/blob/master/images/dfpic.png)
 
